@@ -6,12 +6,12 @@ This document explains the algorithm that  used to control the movement of robot
 pseudo-code:
 -Lift left leg.
 -Move left leg forward.
-Set left leg down.
-Lift right leg.
-Move right leg forward.
-Set right leg down.
-Move body forward.
-Repeat.
+-Set left leg down.
+-Lift right leg.
+-Move right leg forward.
+-Set right leg down.
+-Move body forward.
+-Repeat.
 
 # more detailed explanation:
 in pseudo-code that i provided outlines the basic steps for walking, focusing on alternating leg movements to propel the body forward. 
