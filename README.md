@@ -4,8 +4,8 @@ This document explains the algorithm that  used to control the movement of robot
 
 # Movement Control Functions
 pseudo-code:
-Lift left leg.
-Move left leg forward.
+-Lift left leg.
+-Move left leg forward.
 Set left leg down.
 Lift right leg.
 Move right leg forward.
